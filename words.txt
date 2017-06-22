@@ -262,7 +262,6 @@ counsel
 Counting
 couple
 course
-covfefe
 crackdown
 crash
 created
